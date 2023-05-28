@@ -1,0 +1,27 @@
+.featured{
+    margin: 100px 200px; 
+}
+
+.ftop{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+
+.fh1{
+    flex: 2;
+    text-transform: capitalize;
+}
+
+.fp{
+    flex: 3;
+    color: gray;
+}
+
+.fbottom{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    text-decoration: none;
+}
